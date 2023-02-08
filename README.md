@@ -9,7 +9,7 @@ The purpose of our analysis is to see temperature statistics for June and Decemb
 
  -- In June we had a total count of 1700, mean of 74.9, min of 64.0 and max of 85.0
 
- 
+ https://raw.githubusercontent.com/arash-yousefi/surfs_up/main/Screenshot%202023-02-08%20at%202.25.47%20PM.png
  -- In December we had a total count of 1517, mean of 71.0, min of 56.0 and max of 83.0
  
  
